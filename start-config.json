@@ -1,74 +1,83 @@
-{
-   "Germany": [
-     "territories": {
-       "Germany" : "5",
-       "Greater Southern Germany" : "4",
-       "Western Germany" : "5",
-       "Slovakia Hungary" : "3"
-     }
-   ],
-   "Soviet Union": [
-     "territories": {
-       "Russia" : "3",
-       "Volgograd" : "2",
-       "Caucasus" : "2",
-       "Novgorod" : "2"
-     }
-   ],
-   "Japan": [
-     "territories": {
-       "Japan" : "8",
-       "Korea" : "3",
-       "Iwo Jima" : "1",
-       "Okinawa" : "1"
-     }
-   ],
-  "United States": [
-     "territories": {
-       "Eastern United States" : "20",
-       "Central United States" : "12",
-       "Western United States" : "10",
-       "Midway" : "0"
-     }
-   ],
-  "China": [
-     "territories": {
-       "Yunnan" : "1",
-       "Szechwan" : "1",
-       "Kweichow" : "1",
-       "Shensi" : "1"
-     }
-   ],
-  "United Kingdom": [
-     "territories": {
-       "United Kingdom" : "6",
-       "Scotland" : "2",
-       "Union of South Africa" : "2",
-       "Kenya" : "1"
-     }
-   ],
-  "Italy": [
-     "territories": {
-       "Southern Italy" : "3",
-       "Northern Italy" : "4",
-       "Albania" : "1",
-       "Libya" : "1"
-     }
-   ],
-  "ANZAC": [
-     "territories": {
-       "New South Wales" : "2",
-       "Queensland" : "2",
-       "New Guinea" : "0",
-       "New Zealand" : "2"
-     }
-   ],
-  "France": [
-     "territories": {
-       "France" : "4",
-       "Normandy Bordeaux" : "2",
-       "Southern France" : "3",
-       "Syria" : "1"
-     }
-   ]
-}
+[
+   {
+      "power":"Germany",
+      "territories":{
+         "Germany":"5",
+         "Greater Southern Germany":"4",
+         "Western Germany":"5",
+         "Slovakia Hungary":"3"
+      }
+   },
+   {
+      "power":"Soviet Union",
+      "territories":{
+         "Russia":"3",
+         "Volgograd":"2",
+         "Caucasus":"2",
+         "Novgorod":"2"
+      }
+   },
+   {
+      "power":"Japan",
+      "territories":{
+         "Japan":"8",
+         "Korea":"3",
+         "Iwo Jima":"1",
+         "Okinawa":"1"
+      }
+   },
+   {
+      "power":"United States",
+      "territories":{
+         "Eastern United States":"20",
+         "Central United States":"12",
+         "Western United States":"10",
+         "Midway":"0"
+      }
+   },
+   {
+      "power":"China",
+      "territories":{
+         "Yunnan":"1",
+         "Szechwan":"1",
+         "Kweichow":"1",
+         "Shensi":"1"
+      }
+   },
+   {
+      "power":"United Kingdom",
+      "territories":{
+         "United Kingdom":"6",
+         "Scotland":"2",
+         "Union of South Africa":"2",
+         "Kenya":"1"
+      }
+   },
+   {
+      "power":"Italy",
+      "territories":{
+         "Southern Italy":"3",
+         "Northern Italy":"4",
+         "Albania":"1",
+         "Libya":"1"
+      }
+   },
+   {
+      "power":"ANZAC",
+      "territories":{
+         "New South Wales":"2",
+         "Queensland":"2",
+         "New Guinea":"0",
+         "New Zealand":"2"
+      }
+   },
+   {
+      "power":"France",
+      "territories":{
+         "France":"4",
+         "Normandy Bordeaux":"2",
+         "Southern France":"3",
+         "Syria":"1"
+      }
+   }
+]
